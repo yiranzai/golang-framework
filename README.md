@@ -16,9 +16,6 @@ ______________________________________________________________________
 <!--ts-->
    * [golang-framework](#golang-framework)
       * [目录](#目录)
-      * [Setup](#setup)
-         * [Setup by Command](#setup-by-command)
-         * [Setup on GitHub](#setup-on-github)
       * [Usage](#usage)
          * [Install](#install)
          * [Test](#test)
@@ -30,7 +27,7 @@ ______________________________________________________________________
          * [<a href="https://github.com/yiranzai/github-markdown-toc">Github Markdown TOC</a>](#github-markdown-toc)
       * [License](#license)
 
-<!-- Added by: runner, at: Sun Nov  7 09:20:44 UTC 2021 -->
+<!-- Added by: runner, at: Sun Nov  7 10:15:57 UTC 2021 -->
 
 <!--te-->
 
