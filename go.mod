@@ -1,3 +1,3 @@
-module github.com/yiranzai/golang-template
+module github.com/yiranzai/golang-framework
 
 go 1.14
